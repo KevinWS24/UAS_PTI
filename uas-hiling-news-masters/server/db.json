@@ -1,0 +1,100 @@
+{
+	"news": [
+		{
+			"id": 1,
+			"title": "Si Oren berulah lagi dengan si Abu-Abu",
+			"slug": "si-oren-berulah-lagi-dengan-si-abu-abu",
+			"content": "Lorem ipsum dolor 1 sit amet consectetur adipisicing elit. Consectetur laudantium fugiat sit quasi incidunt aliquid, asperiores repudiandae nobis. Nihil ab vero temporibus quaerat dolore inventore earum id amet. Saepe, praesentium?",
+			"date": "10 Juni 2021"
+		},
+		{
+			"id": 2,
+			"title": "Persiapan perang dengan Si Oren, Abu-abu melatih ototnya di GYM",
+			"slug": "persiapan-perang-dengan-si-oren-abu-abu-melatih-ototnya-di-gym",
+			"content": "Lorem ipsum dolor 2 sit amet consectetur adipisicing elit. Consectetur laudantium fugiat sit quasi incidunt aliquid, asperiores repudiandae nobis. Nihil ab vero temporibus quaerat dolore inventore earum id amet. Saepe, praesentium?",
+			"date": "25 Juni 2021"
+		},
+		{
+			"id": 3,
+			"title": "Julius Ganteng Sekali Omaigat",
+			"slug": "julius-ganteng-sekali-omaigat",
+			"content": "Lorem ipsum dolor 3 sit amet consectetur adipisicing elit. Consectetur laudantium fugiat sit quasi incidunt aliquid, asperiores repudiandae nobis. Nihil ab vero temporibus quaerat dolore inventore earum id amet. Saepe, praesentium?",
+			"date": "1 Juli 2021"
+		},
+		{
+			"id": 4,
+			"title": "Seorang Anak UMN sedang Jatuh cinta dengan Anak BINUS",
+			"slug": "seorang-anak-umn-sedang-jatuh-cinta-dengan-anak-binus",
+			"content": "Mau tau? Tuh yang ulang tahunnya dibawah ini..",
+			"date": "18 Agustus 2021"
+		},
+		{
+			"id": 5,
+			"title": "Batak Pride",
+			"slug": "batak-pride",
+			"content": "Horas bahhh",
+			"date": "18 Agustus 2021"
+		}
+	],
+	"blogs": [
+		{
+			"id": 1,
+			"title": "Jiahhhh",
+			"slug": "jiahhhh",
+			"content": "Lorem ipsum dolor 1 sit amet consectetur adipisicing elit. Consectetur laudantium fugiat sit quasi incidunt aliquid, asperiores repudiandae nobis. Nihil ab vero temporibus quaerat dolore inventore earum id amet. Saepe, praesentium?",
+			"date": "10 Juni 2021"
+		},
+		{
+			"id": 2,
+			"title": "Hiling Hiling dulu ya ges ya",
+			"slug": "hiling-hiling-dulu-ya-ges-ya",
+			"content": "Lorem ipsum dolor 2 sit amet consectetur adipisicing elit. Consectetur laudantium fugiat sit quasi incidunt aliquid, asperiores repudiandae nobis. Nihil ab vero temporibus quaerat dolore inventore earum id amet. Saepe, praesentium?",
+			"date": "25 Juni 2021"
+		},
+		{
+			"id": 3,
+			"title": "Ko Olwn dan Ko Dwynn ganteng ya ges ya",
+			"slug": "ko-olwn-dan-ko-dwynn-ganteng-ya-ges-ya",
+			"content": "Lorem ipsum dolor 3 sit amet consectetur adipisicing elit. Consectetur laudantium fugiat sit quasi incidunt aliquid, asperiores repudiandae nobis. Nihil ab vero temporibus quaerat dolore inventore earum id amet. Saepe, praesentium?",
+			"date": "1 Juli 2021"
+		},
+		{
+			"id": 4,
+			"title": "Batak Pride",
+			"slug": "batak-pride",
+			"content": "Lorem ipsum dolor 4 sit amet consectetur adipisicing elit. Consectetur laudantium fugiat sit quasi incidunt aliquid, asperiores repudiandae nobis. Nihil ab vero temporibus quaerat dolore inventore earum id amet. Saepe, praesentium?",
+			"date": "18 Agustus 2021"
+		}
+
+	],
+	"developers": [
+		{
+			"id": 1,
+			"name": "Julius Caesar Nurdiyana Putra",
+			"nim": "00000044377",
+			"image": "https://i.postimg.cc/PfgrRk4D/103832814-582602835724913-1448729374689920600-n.jpg",
+			"description": "Hiling Hiling What is that? who knows? who care? i didn't care about that"
+		},
+		{
+			"id": 2,
+			"name": "Kevin Fernando Wijaya Sumargo",
+			"nim": "00000044537",
+			"image": "https://i.postimg.cc/PJjrBZwB/108071.jpg",
+			"description": "Gw punya banyak kucing loh gais klo mau minta bilang aja."
+		},
+		{
+			"id": 3,
+			"name": "Karsudin",
+			"nim": "00000053860",
+			"image": "https://i.postimg.cc/8kmNtrj2/100966061-292279648448319-6496918339572200662-n.jpg",
+			"description": "Hai Guys saya Karsudin rumah saya jauh."
+		},
+		{
+			"id": 4,
+			"name": "Elvincent Sangia",
+			"nim": "00000054238",
+			"image": "https://i.postimg.cc/LXhzncQH/108072.jpg",
+			"description": "Gw yang punya Excelso loh gaes jangan lupa mampirr skuyyy."
+		}
+	]
+}
